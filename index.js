@@ -126,4 +126,4 @@
 //     let word = str.trim().split(" ");
 //     return word.length;
 // }
-// console.log(countWords('ghbdtn ghbdtn sdsfsf'));
+// console.log(countWords('Один Два Три'));
